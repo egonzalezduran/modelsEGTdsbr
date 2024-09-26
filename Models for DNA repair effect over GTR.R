@@ -1,7 +1,7 @@
 ####################### R Code for statistical models (GLM) ########################################
-## "Suppression of endosymbiotic gene transfer and the origin of eukaryotes"                     ###
+## "Suppression of endosymbiotic gene transfer by DNA double-strand break repair"                ###
 ## Gonzalez-Duran, E and Bock, R (2024)                                                          ###
-## Version 07.09.24 by Enrique Gonzalez-Duran                                                    ###
+## Version 26.09.24 by Enrique Gonzalez-Duran                                                    ###
 ## R version 3.5.3 accessed through R studio  2023.12.0 Build 369                                ###
 ## Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany                     ###  
 ##                                                                                               ###   
