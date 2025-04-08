@@ -20,13 +20,13 @@ SomaticFGT2.txt
 
 The part 1 contains most of the code and statistical tests. It works in R v.4.3.3 using the following packages:
 
-# MASS        v. 7.3-60.0.1
-# dplyr       v. 1.1.4
-# ggplot2     v. 3.5.1
-# ciTools     v. 0.6.1
-# insight     v. 0.20.0
-# rstudioapi  v. 0.16.0
-# multcomp    v. 1.4-25
+MASS        v. 7.3-60.0.1
+dplyr       v. 1.1.4
+ggplot2     v. 3.5.1
+ciTools     v. 0.6.1
+insight     v. 0.20.0
+rstudioapi  v. 0.16.0
+multcomp    v. 1.4-25
 
 In order to run the code, just put all the files in a single folder of your choosing and run the Models for DNA repair effect over EGT.R using R studio. The program should be able to recognize the path where the R script is, set it as the working directory, and use the datafiles from there. Necessary packages are installed automatically. Output files will be generated in the working directory.
 
