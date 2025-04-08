@@ -1,5 +1,5 @@
 # modelsEGTdsbr
-####################### R Code for statistical models (GLM) ############################################## 
+####################### R Code for statistical models (GLM) ##################################
 
 "Suppression of plastid-to-nucleus gene transfer by DNA double-strand break repair "
 Gonzalez-Duran, E., Kroop, X., Schadach, A. and Bock, R. (2025)
@@ -7,7 +7,7 @@ Version 08.04.25 by Enrique Gonzalez-Duran
 R versions 4.3.3 and 3.6.3 
 Max Planck Institute of Molecular Plant Physiology, Potsdam-Golm, Germany
 
-##########################################################################################################
+##############################################################################################
 
 This code is split in two parts:
 
